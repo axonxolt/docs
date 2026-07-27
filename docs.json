@@ -93,5 +93,10 @@
       "x": "https://x.com/yourcompany",
       "linkedin": "https://linkedin.com/company/yourcompany"
     }
+  },
+  "errors": {
+    "404": {
+      "redirect": false
+    }
   }
 }
