@@ -4,7 +4,7 @@
   "name": "Product Guide",
   "description": "Step-by-step guides for every product—platform setup, analytics, and integrations in one place.",
   "colors": {
-    "primary": "#166E3F",
+    "primary": "#00008f",
     "light": "#26BD6C",
     "dark": "#166E3F"
   },
